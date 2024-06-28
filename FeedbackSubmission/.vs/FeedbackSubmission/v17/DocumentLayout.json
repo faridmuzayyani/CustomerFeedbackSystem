@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Bootcamp .Net Developer PT Rapid Technology Indonesia\\MiniProject\\FeedbackSubmission\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9DA1588C-2E30-490D-AE7F-829C97715AC9}|FeedbackReview\\FeedbackReview.csproj|d:\\bootcamp .net developer pt rapid technology indonesia\\miniproject\\feedbacksubmission\\feedbackreview\\dal\\feedbackef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DA1588C-2E30-490D-AE7F-829C97715AC9}|FeedbackReview\\FeedbackReview.csproj|solutionrelative:feedbackreview\\dal\\feedbackef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DA1588C-2E30-490D-AE7F-829C97715AC9}|FeedbackReview\\FeedbackReview.csproj|d:\\bootcamp .net developer pt rapid technology indonesia\\miniproject\\feedbacksubmission\\feedbackreview\\dal\\customeref.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DA1588C-2E30-490D-AE7F-829C97715AC9}|FeedbackReview\\FeedbackReview.csproj|solutionrelative:feedbackreview\\dal\\customeref.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DA1588C-2E30-490D-AE7F-829C97715AC9}|FeedbackReview\\FeedbackReview.csproj|d:\\bootcamp .net developer pt rapid technology indonesia\\miniproject\\feedbacksubmission\\feedbackreview\\controllers\\feedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DA1588C-2E30-490D-AE7F-829C97715AC9}|FeedbackReview\\FeedbackReview.csproj|solutionrelative:feedbackreview\\controllers\\feedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DA1588C-2E30-490D-AE7F-829C97715AC9}|FeedbackReview\\FeedbackReview.csproj|d:\\bootcamp .net developer pt rapid technology indonesia\\miniproject\\feedbacksubmission\\feedbackreview\\views\\feedback\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9DA1588C-2E30-490D-AE7F-829C97715AC9}|FeedbackReview\\FeedbackReview.csproj|solutionrelative:feedbackreview\\views\\feedback\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FeedbackEF.cs",
+              "DocumentMoniker": "D:\\Bootcamp .Net Developer PT Rapid Technology Indonesia\\MiniProject\\FeedbackSubmission\\FeedbackReview\\DAL\\FeedbackEF.cs",
+              "RelativeDocumentMoniker": "FeedbackReview\\DAL\\FeedbackEF.cs",
+              "ToolTip": "D:\\Bootcamp .Net Developer PT Rapid Technology Indonesia\\MiniProject\\FeedbackSubmission\\FeedbackReview\\DAL\\FeedbackEF.cs",
+              "RelativeToolTip": "FeedbackReview\\DAL\\FeedbackEF.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T13:59:05.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerEF.cs",
+              "DocumentMoniker": "D:\\Bootcamp .Net Developer PT Rapid Technology Indonesia\\MiniProject\\FeedbackSubmission\\FeedbackReview\\DAL\\CustomerEF.cs",
+              "RelativeDocumentMoniker": "FeedbackReview\\DAL\\CustomerEF.cs",
+              "ToolTip": "D:\\Bootcamp .Net Developer PT Rapid Technology Indonesia\\MiniProject\\FeedbackSubmission\\FeedbackReview\\DAL\\CustomerEF.cs",
+              "RelativeToolTip": "FeedbackReview\\DAL\\CustomerEF.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T13:58:57.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Bootcamp .Net Developer PT Rapid Technology Indonesia\\MiniProject\\FeedbackSubmission\\FeedbackReview\\Views\\Feedback\\Index.cshtml",
+              "RelativeDocumentMoniker": "FeedbackReview\\Views\\Feedback\\Index.cshtml",
+              "ToolTip": "D:\\Bootcamp .Net Developer PT Rapid Technology Indonesia\\MiniProject\\FeedbackSubmission\\FeedbackReview\\Views\\Feedback\\Index.cshtml",
+              "RelativeToolTip": "FeedbackReview\\Views\\Feedback\\Index.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-28T13:23:16.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FeedbackController.cs",
+              "DocumentMoniker": "D:\\Bootcamp .Net Developer PT Rapid Technology Indonesia\\MiniProject\\FeedbackSubmission\\FeedbackReview\\Controllers\\FeedbackController.cs",
+              "RelativeDocumentMoniker": "FeedbackReview\\Controllers\\FeedbackController.cs",
+              "ToolTip": "D:\\Bootcamp .Net Developer PT Rapid Technology Indonesia\\MiniProject\\FeedbackSubmission\\FeedbackReview\\Controllers\\FeedbackController.cs",
+              "RelativeToolTip": "FeedbackReview\\Controllers\\FeedbackController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T13:21:59.158Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
