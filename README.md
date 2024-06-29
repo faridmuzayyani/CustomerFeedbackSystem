@@ -70,3 +70,8 @@ The Feedback Review System is an application designed to collect, manage, and re
 | ColumnName  | nvarchar  | Not Null               |
 | Status      | nvarchar  | Not Null               |
 | Created     | datetime  | Not Null, Default GETDATE() |
+
+## Screenshots
+
+### Feedback Submission (Console App)
+![Screenshot of the application]("D:\Bootcamp .Net Developer PT Rapid Technology Indonesia\MiniProject\Screenshot 2024-06-29 104804.png")
